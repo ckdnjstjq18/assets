@@ -1,0 +1,2 @@
+# assets
+AI Coin Logo
